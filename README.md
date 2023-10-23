@@ -30,7 +30,7 @@ Passionate Lead Developer with decade of programming experience with various tec
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkhadse&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkhadse&theme=nord_bright"/></a>
+<a><img width="563px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitkhadse&theme=nord_bright"/></a>
 
 <a href="https://www.linkedin.com/in/rohitkhadse/">
   <img align="left" alt="Rohit's LinkedIn" height="20px" width="80px"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
