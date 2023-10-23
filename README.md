@@ -42,7 +42,7 @@ Passionate Lead Developer with decade of programming experience with various tec
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/rohitkhadse/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rohit's LinkedIn" width="80" height="20" style="border-radius: 5px;" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rohit's LinkedIn" width="80" height="20" border-radius="5px" />
       </a>
     </td>
     <td>
