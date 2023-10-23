@@ -38,7 +38,7 @@ Passionate Lead Developer with decade of programming experience with various tec
 
 <a>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitkhadse)</a>
 
-<style>
+<style hidden>
     img {
       border-radius: 3%;
     }
