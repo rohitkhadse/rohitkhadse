@@ -21,7 +21,7 @@ Passionate Lead Developer with decade of programming experience with various tec
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 </p>
 
 
@@ -32,7 +32,7 @@ Passionate Lead Developer with decade of programming experience with various tec
 
 
 <a href="https://www.linkedin.com/in/rohitkhadse/">
-  <img align="left" alt="Rohit's LinkedIn" width="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Rohit's LinkedIn" height="135px" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitkhadse)</a>
